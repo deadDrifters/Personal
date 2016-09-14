@@ -1,0 +1,9 @@
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\bin\Debug\ksu.Cis300.BitCalculator.exe.config
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\obj\Debug\ksu.Cis300.BitCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\obj\Debug\ksu.Cis300.BitCalculator.UxCalculator.resources
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\obj\Debug\ksu.Cis300.BitCalculator.Properties.Resources.resources
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\obj\Debug\ksu.Cis300.BitCalculator.csproj.GenerateResource.Cache
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\bin\Debug\ksu.Cis300.BitCalculator.exe
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\bin\Debug\ksu.Cis300.BitCalculator.pdb
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\obj\Debug\ksu.Cis300.BitCalculator.exe
+C:\Users\Benjamin\Documents\Visual Studio 2015\Projects\Ksu.cis.300.HW1\ksu.Cis300.BitCalculator\ksu.Cis300.BitCalculator\obj\Debug\ksu.Cis300.BitCalculator.pdb
