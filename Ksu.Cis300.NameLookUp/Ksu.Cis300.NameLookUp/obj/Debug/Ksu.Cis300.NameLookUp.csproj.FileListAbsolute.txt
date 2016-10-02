@@ -1,0 +1,18 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\bin\Debug\Ksu.Cis300.NameLookUp.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\bin\Debug\Ksu.Cis300.NameLookUp.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\bin\Debug\Ksu.Cis300.NameLookUp.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.NameLookUp.resources
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.Properties.Resources.resources
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.csproj.GenerateResource.Cache
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Homework 2\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.pdb
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\bin\Debug\Ksu.Cis300.NameLookUp.exe.config
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.exe
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.pdb
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.csprojResolveAssemblyReference.cache
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.UserInterface.resources
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.Properties.Resources.resources
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\obj\Debug\Ksu.Cis300.NameLookUp.csproj.GenerateResource.Cache
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\bin\Debug\Ksu.Cis300.NameLookUp.exe
+\\enggfiles.engg.ksu.edu\homes\N\Nebyoung\Ksu.Cis300.NameLookUp (2)\Ksu.Cis300.NameLookUp\Ksu.Cis300.NameLookUp\bin\Debug\Ksu.Cis300.NameLookUp.pdb
